@@ -1,6 +1,7 @@
 # RITMural
 
 ## Web Canvas
+
 ![Alt text](canvas.jpg?raw=true "Optional Title")
 
 ## Description
@@ -36,16 +37,21 @@ After the launch, the website received traffic of 100 concurrent users in the fi
 We learned a lot during the 24 hours since all of the technologies mentioned above were new to us. We struggled with getting the web application hosted on Google Cloud Platform so we opted for Heroku. We wanted to add a feature that allows us to zoom. I don't think we realized at the time the difference between rasterization and vectorization. Looking back, we could have tackled the zoom problem differently.
 
 ## Links
+
 The links are old so they may not work, but I wanted to add them for reference.
 
 ### The Source Code
+
 https://github.com/kevuno/RITMural
 
 ### The Hackathon Profile Page
+
 https://devpost.com/software/ritmural
 
 ### The Heroku Link to the Web App
+
 https://ritmural.herokuapp.com/
 
 ### The Domain Name to the Web App
+
 http://ritmural.com/
